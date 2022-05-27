@@ -1,2 +1,2 @@
 # pizza
-First Git project with Thinkfu;
+First Git project with Thinkful
